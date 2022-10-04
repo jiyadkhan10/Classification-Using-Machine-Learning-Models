@@ -1,4 +1,4 @@
-# Classification-Using-Machine-Learning-Models
+# Classification Using Machine Learning Models
 # Course
 DS3002 Data Mining <br />
 
